@@ -100,7 +100,6 @@ window.onload = function() {
       // GET THAT MEMECHAT HEADER OUTTA HERE
       var title_container = document.getElementById('title_container')
       var title = document.getElementById('title')
-      title_container.classList.add('chat_title_container')
       title.classList.add('chat_title')
 
       var chat_container = document.createElement('div')
